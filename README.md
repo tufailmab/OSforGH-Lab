@@ -36,7 +36,9 @@
   <h2>Repository Structure</h2>
   <pre>
 OSforGH-Lab/
-├── examples/
+├── Examples
+├── Important Points
+├── Steel Reinforcement
 ├── README.html
 └── LICENSE
   </pre>
