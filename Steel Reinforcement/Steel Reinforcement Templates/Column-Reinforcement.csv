@@ -1,0 +1,5 @@
+﻿No,Number of main bars at i-end,Bar diameter [mm],Number of main bars at center,Bar diameter [mm],Number of main bars at j-end,Bar diameter [mm],Number of stirrups at i-end,Stirrup diameter [mm],Stirrup spacing [mm],Number of stirrups at center,Stirrup diameter [mm],Stirrup spacing [mm],Number of stirrups at j-end,Stirrup diameter [mm],Stirrup spacing [mm],Concrete cover [mm],Section width [mm],Section depth [mm]
+1,2,16,2,16,2,16,1,10,100,1,10,100,1,10,100,40,400,400
+2,2,16,2,16,2,16,,,,,,,,,,,,
+C1,2,16,2,16,2,16,,,,,,,,,,40,,
+2,2,16,2,16,2,16,,,,,,,,,,,,
